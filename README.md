@@ -8,4 +8,4 @@
 
 ## 撰寫方式  
 使用python, html, css, javascript  
-python使用webbrowser套件
+python使用[webbrowser](https://docs.python.org/2/library/webbrowser.html)套件
